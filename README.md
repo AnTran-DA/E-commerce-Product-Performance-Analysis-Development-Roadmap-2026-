@@ -19,5 +19,6 @@ A description of each table is as follows:
 * Product dimension: Includes the attributes and characteristics of the products being sold.
 * Review dimension: Captures customer ratings and review information.
 * ASIN analysis table: This table is created after identifying high-potential products and is used to further analyze their performance by size, color, brand, and other variation attributes.
-  
-  <img width="1656" height="807" alt="image" src="https://github.com/user-attachments/assets/745f1ce9-3a28-4eaa-b087-18189924030e" />
+
+  <img width="1633" height="783" alt="diagram" src="https://github.com/user-attachments/assets/02429e29-d50e-4d7b-a243-062ddc4a3365" />
+
