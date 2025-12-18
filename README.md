@@ -10,4 +10,4 @@ Insights and recommendations are provided on the following key areas:
 * Product matrix analysis, leveraging revenue growth, sales volume, and customer preference indicators
 * Variation effectiveness analysis, assessing the contribution of variations by brand, color, size, and piece count to identify the most in-demand, stable, and scalable variations
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here
+An interactive PoweBI dashboard used to report and explore potential products can be found here 
