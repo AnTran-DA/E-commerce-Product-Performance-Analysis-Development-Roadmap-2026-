@@ -25,6 +25,7 @@ A description of each table is as follows:
 # Executive Summary
 
 **Overview of Findings**
+
 The company currently operates across four product categories: Kids Bedding Sets, Tote Bags, Jewelry Boxes, and Photo Frames. Three categories stand out as strategically significant:
 * Kids Bedding Sets: This category demonstrates a strong balance between scale and growth. It remains the company’s core business, delivering the highest profitability and sales volume, despite relatively moderate growth.
 * Tote Bags: The second-largest category by revenue, Tote Bags show substantial market potential, trailing.
@@ -34,16 +35,18 @@ The company currently operates across four product categories: Kids Bedding Sets
 <img width="1173" height="658" alt="1" src="https://github.com/user-attachments/assets/0feb3fa1-af34-4b22-b06a-5a7c2dbdd4d6" />
 
 **Insights Deep Dive**
-**Revenue and volume growth over time at both category and product levels.
-**__
+
+Revenue and volume growth over time at both category and product levels.
+
 * Kids Bedding Sets: While this category shows strong potential, it carries relatively high risk due to highly dispersed and volatile revenue and volume growth. Most ASINs are growing at relatively low levels, with revenue growth below 48.8%. This indicates breakout potential, but also elevated risk, requiring deeper analysis at the ASIN and variation levels, as well as a restructuring of the product portfolio within the category.
 * Tote Bags: Market demand is relatively stable, with limited revenue volatility. Revenue growth ranges from 3.95% to 82.14%, positioning this category as a safe and steady growth driver.
 * Jewelry Boxes: Despite strong overall growth, performance is largely driven by product assortment expansion, rather than exceptional growth at the individual product level.
 * Photo Frames: This category shows no notable growth signals, with low and clustered performance distribution.
 
 <img width="1170" height="657" alt="2" src="https://github.com/user-attachments/assets/7fdd48a6-81e7-43bc-b998-cfeeaa6943a0" />
-**
-Product quality based on customer feedback (product and review scoring), identifying categories and ASINs with outstanding customer preference.**__
+
+Product quality based on customer feedback (product and review scoring), identifying categories and ASINs with outstanding customer preference.
+
 Note: Most of the company’s categories receive ratings between 4 and 5 stars, and Tote Bags have the highest volume of customer reviews among all categories.
 Assumption: The Tote Bag category also exhibits a strong concentration of 4–5 star ratings.
 Most ratings are concentrated at 4–5 stars, which is a positive signal but requires further quality validation.
