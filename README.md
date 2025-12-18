@@ -36,6 +36,7 @@ The company currently operates across four product categories: Kids Bedding Sets
 
 **Insights Deep Dive**
 
+
 Revenue and volume growth over time at both category and product levels.
 
 * Kids Bedding Sets: While this category shows strong potential, it carries relatively high risk due to highly dispersed and volatile revenue and volume growth. Most ASINs are growing at relatively low levels, with revenue growth below 48.8%. This indicates breakout potential, but also elevated risk, requiring deeper analysis at the ASIN and variation levels, as well as a restructuring of the product portfolio within the category.
@@ -45,10 +46,18 @@ Revenue and volume growth over time at both category and product levels.
 
 <img width="1170" height="657" alt="2" src="https://github.com/user-attachments/assets/7fdd48a6-81e7-43bc-b998-cfeeaa6943a0" />
 
+
 Product quality based on customer feedback (product and review scoring), identifying categories and ASINs with outstanding customer preference.
 
 Note: Most of the company’s categories receive ratings between 4 and 5 stars, and Tote Bags have the highest volume of customer reviews among all categories.
 Assumption: The Tote Bag category also exhibits a strong concentration of 4–5 star ratings.
 Most ratings are concentrated at 4–5 stars, which is a positive signal but requires further quality validation.
 The category-level rating distribution shows a strong clustering around 4–5 stars; however, this must be interpreted with caution. A high volume of star ratings with limited written reviews (low review depth) differs materially from a large number of detailed, positive written reviews.
+
+* Kids Bedding Sets: This category has the highest total number of reviews and ratings, with many ASINs receiving exceptionally high review counts. This indicates strong customer trust and the largest market scale among all categories. However, performance at the ASIN level is highly volatile, suggesting uneven product-level outcomes.
+* Tote Bags: While many ASINs receive relatively high ratings—and some score extremely well—the actual number of customer reviews is limited. This suggests that the category may lack sufficient “wow” factor to motivate customers to leave reviews.
+* Jewelry Boxes and Photo Frames: These categories show no particularly notable signals, with low review volumes and limited ratings overall. Although Jewelry Boxes previously appeared to be a high-growth category, customer feedback indicates that this growth may be short-lived and lacks clear signs of long-term sustainability.
+
+  <img width="1172" height="655" alt="2" src="https://github.com/user-attachments/assets/cf9aa9f6-eed7-4792-8eec-c08058e9b8e9" />
+
 
