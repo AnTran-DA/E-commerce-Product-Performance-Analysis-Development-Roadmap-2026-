@@ -79,11 +79,41 @@ Visualization of the 17 selected products grouped by category
 
 <img width="1806" height="818" alt="11122025_Trần Bích An (2)" src="https://github.com/user-attachments/assets/a55dbca6-1305-4991-98fa-0e447405bd78" />
 
+Variation Effectiveness
 
+* A small number of brands, such as Utopia Bedding, and specific designs/colors, such as Unicorn, account for a disproportionate share of total revenue. Expanding product designs, color variants, and brand storytelling around these winners is likely to drive incremental growth.
+* Size and sub-category performance show significant fragmentation, indicating uneven demand patterns.
+* Pricing has remained relatively stable over the two-year period, with any notable changes primarily concentrated in Group B. In contrast, Group D experienced price declines, with limited price dispersion across products within the group.
+* For Group A, prices have also declined; however, this group already operates at the lowest price points and, by 2023, shows an increasing concentration within the lower price range.
 
+<img width="1832" height="500" alt="11122025_Trần Bích An (3)" src="https://github.com/user-attachments/assets/05ce4f2c-7498-4cd5-8276-5ac7fa603749" />
 
+**Strategic Recommendations by Product Group** _(Individual, deeper-dive analyses will be performed to evaluate price sensitivity)_
 
+* Group A:
+ * Increase selling prices while reinforcing promotions and paid advertising, as this group still has strong growth potential.
+ * Diversify existing product lines through additional colors, sizes, and brand extensions.
+ * Develop new products based on clearly identified customer needs.
+ * Review inventory levels to ensure sufficient stock availability, and audit fulfillment processes. Any negative customer reviews should be investigated and addressed promptly.
 
+* Group B:
+ * Adjust pricing to maintain a competitive mid-range level through benchmarking and supplier negotiations.
+ * Optimize designs, sizes, and brand focus, prioritizing SKUs with proven sales performance.
+
+* Group C:
+ * Maintain lower price points to attract new customers, while ensuring margins remain viable.
+ * Optimize cost structures across other operational areas.
+
+* Group D:
+ * For low-priced products with weak demand, consider liquidation or using them as giveaways for customer appreciation, promotional bundles, or demand-generation campaigns during discounts and advertising initiatives.
+
+**Assumptions and Caveats**
+
+* In the product matrix analysis, the threshold-based approach was used as a rapid classification solution under the time constraints of the case exercise. However, given the presence of skewed distributions in the data, this method should be re-evaluated or replaced with more robust clustering techniques in a real-world implementation.
+
+* These analyses do not account for cost structures, inventory levels, market conditions, or shifts in customer behavior.
+
+* The analysis assumes that the company is pursuing an expansion and growth-oriented strategy and is willing to accept higher risk in exchange for greater profit potential.
 
 
 
