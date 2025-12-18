@@ -14,10 +14,10 @@ An interactive PoweBI dashboard used to report and explore potential products ca
 
 # Data Structure & Initial Checks
 The companies main database structure as seen below consists of four tables: Kids Bedding Sets, Jewelry Boxes, Photo Frames, and Tote Bags. Each of table is complexity data structure, so I clean data and restructure data for four tables and 1 help table: metric, product dimension, review dimension, analysis ASIN and calculate.
-A description of <img width="1656" height="807" alt="diagram" src="https://github.com/user-attachments/assets/3aa69c1f-fb9e-4c09-84aa-5619258aa7e1" />
-each table is as follows:
+A description of each table is as follows:
 * Metrics table: Contains all transaction-level data over a two-year period.
 * Product dimension: Includes the attributes and characteristics of the products being sold.
 * Review dimension: Captures customer ratings and review information.
 * ASIN analysis table: This table is created after identifying high-potential products and is used to further analyze their performance by size, color, brand, and other variation attributes.
+  
   <img width="1656" height="807" alt="image" src="https://github.com/user-attachments/assets/745f1ce9-3a28-4eaa-b087-18189924030e" />
