@@ -11,3 +11,6 @@ Insights and recommendations are provided on the following key areas:
 * Variation effectiveness analysis, assessing the contribution of variations by brand, color, size, and piece count to identify the most in-demand, stable, and scalable variations
 
 An interactive PoweBI dashboard used to report and explore potential products can be found here 
+
+# Data Structure & Initial Checks
+The companies main database structure as seen below consists of four tables: Kids Bedding Sets, Jewelry Boxes, Photo Frames, and Tote Bags. Each of table is complexity data structure, so I clean data and restructure data for four tables:  A description of each table is as follows:
