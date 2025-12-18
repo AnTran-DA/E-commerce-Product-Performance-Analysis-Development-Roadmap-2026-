@@ -60,4 +60,33 @@ The category-level rating distribution shows a strong clustering around 4–5 st
 
   <img width="1172" height="655" alt="2" src="https://github.com/user-attachments/assets/cf9aa9f6-eed7-4792-8eec-c08058e9b8e9" />
 
+Product matrix analysis
+
+* Conclusion on category selection: Based on the analysis of revenue growth, volume growth, and customer feedback, Kids Bedding Sets emerge as the category that combines core sales importance, strong revenue growth potential, and high customer preference. To mitigate risks associated with underperforming ASINs while continuing to scale winning ASINs, a product matrix analysis should be conducted to identify the category’s priority product segments.
+
+* Threshold definition: The threshold is defined as the overall average value across all ASINs, combined with the degree of growth dispersion among ASINs.
+→ Any item exceeding the average plus the growth variance is considered a top-performing (outperforming) item.
+
+* Product grouping based on revenue growth contribution (80–90–95 rule):
+Group A: Most critical items, contributing 80% of total revenue growth
+Group B: Moderately important items, contributing the next 10%
+Group C: Lower-priority items, contributing an additional 5%
+Group D: Remaining items
+
+<img width="1163" height="411" alt="11122025_Trần Bích An (1)" src="https://github.com/user-attachments/assets/80eb180d-5082-4648-8c73-ad80d806c39e" />
+
+Visualization of the 17 selected products grouped by category
+
+<img width="1806" height="818" alt="11122025_Trần Bích An (2)" src="https://github.com/user-attachments/assets/a55dbca6-1305-4991-98fa-0e447405bd78" />
+
+
+
+
+
+
+
+
+
+
+
 
