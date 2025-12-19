@@ -50,6 +50,7 @@ Revenue and volume growth over time at both category and product levels.
 Product quality based on customer feedback (product and review scoring), identifying categories and ASINs with outstanding customer preference.
 
 Note: Most of the company’s categories receive ratings between 4 and 5 stars, and Tote Bags have the highest volume of customer reviews among all categories.
+
 Assumption: The Tote Bag category also exhibits a strong concentration of 4–5 star ratings.
 Most ratings are concentrated at 4–5 stars, which is a positive signal but requires further quality validation.
 The category-level rating distribution shows a strong clustering around 4–5 stars; however, this must be interpreted with caution. A high volume of star ratings with limited written reviews (low review depth) differs materially from a large number of detailed, positive written reviews.
